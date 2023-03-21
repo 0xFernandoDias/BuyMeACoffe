@@ -256,16 +256,6 @@ export default function Home() {
 						</div>
 					)
 				})}
-
-			<footer className={styles.footer}>
-				<a
-					href="https://alchemy.com/?a=roadtoweb3weektwo"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					Created by @thatguyintech for Alchemys Road to Web3 lesson two!
-				</a>
-			</footer>
 		</div>
 	)
 }
